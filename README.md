@@ -6,7 +6,7 @@
 - Aid retail investors/traders to make minimal risk but high return trades using leveraging quantitive analysis.
 - Provide tools for developing and testing your own strategy
 
-**Built with**: Python, Pandas, Scikit-learn, matplotlib, mplfinance, datetime, pytz, cctz, backtesting.py, cctx, dotenv, os
+**Built with**: Python, Pandas, Scikit-learn, matplotlib, mplfinance, datetime, pytz, backtesting.py, cctx, dotenv, os
 
 ## **Overview:**
 
