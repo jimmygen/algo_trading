@@ -3,7 +3,7 @@
 **Desciption:** Scripts for automated data fetching, data transformation, strategy development, backtesting, optimization, visualization and trading signal creation**
 
 **Goal of this project:**
-- Aid retail investors/traders make minimal risk but high return trades leveraging quantitive analysis.
+- Aid retail investors/traders to make minimal risk but high return trades using leveraging quantitive analysis.
 - Provide tools for developing and testing your own strategy
 
 **Built with**: Python, Pandas, Scikit-learn, matplotlib, mplfinance, datetime, pytz, cctz, backtesting.py, cctx, dotenv, os
