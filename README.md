@@ -10,14 +10,14 @@
 
 ## **Overview:**
 
-**1 fetch_csv_binance.py:** Create local .csv files of financial data in pandas dataframe style to be used for offline data analysis.
+**fetch_csv_binance.py:** Create local .csv files of financial data in pandas dataframe style to be used for offline data analysis.
 - Uses binance API
 - Automatically select most traded cyrptocurreny assets
 - Convenient filenaming
 - Convenient for pandas dataframe and creating candlestick data (OHLCV)
 ![Alt text for your image](/images/fetching_result.png "Result of running fetching script")
 
-**2 main_backtest_CET.py:** Takes .csv input data and strategy('s) and leverages backtesting.py library for backtesting and optimization
+**main_backtest_CET.py:** Takes .csv input data and strategy('s) and leverages backtesting.py library for backtesting and optimization
 - Takes local .csv data and Tranforms UTC data to CET data
 - User defined Custom strategy and indicator implementation
 - Visual representation of backtest results including Equity Curve, Drawdown visualization, Position visualization, and other custom representations (leveraging backtesting.py)
