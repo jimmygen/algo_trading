@@ -1,0 +1,14 @@
+backtesting==0.6.4
+binance==0.3.45
+ccxt==4.4.88
+matplotlib==3.10.3
+mplcursors==0.6
+mplfinance==0.12.10b0
+numpy==2.3.1
+pandas==2.3.0
+plotly==6.1.2
+python-dotenv==1.1.0
+python_binance==1.0.29
+pytz==2025.2
+Requests==2.32.4
+scipy==1.16.0
