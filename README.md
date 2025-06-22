@@ -1,8 +1,15 @@
-# algo_trading
-**Scripts for algorithmic trading**
-Scripts for automated data fetching, data transformation, strategy development, backtesting, optimization, visualization and trading signal creation
+# Algorithmic Trading Using Momentum Strategy
+## Summary:
+**Desciption:** Scripts for automated data fetching, data transformation, strategy development, backtesting, optimization, visualization and trading signal creation**
 
-**Overview:**
+**Goal of this project:**
+- Aid retail investors/traders make minimal risk but high return trades leveraging quantitive analysis.
+- Provide tools for developing and testing your own strategy
+
+**Built with**: Python, Pandas, Scikit-learn, matplotlib, mplfinance, datetime, pytz, cctz, backtesting.py, cctx, dotenv, os
+
+## **Overview:**
+
 **1 fetch_csv_binance.py:** Create local .csv files of financial data in pandas dataframe style to be used for offline data analysis.
 - Uses binance API
 - Automatically select most traded cyrptocurreny assets
