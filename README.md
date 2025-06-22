@@ -34,7 +34,10 @@
 ![Alt text for your image](20250622_115547_Sell.png "Trading decision dashboard")
   
 **fetch_custom_CET.py**: custom python module to fetch live data from given broker and transform from usual UTC timezone to CET timezone.
-
+- Candlestick data is usually in UTC format
+- Transform to CET (Europe time) format to schedule and monitor scripts
+  
 **quantindicators.py**: custom python module for calling custom quantitive indicitors and signals.
+- Program own indicators and signals as a single source for the main scripts avoiding errors.
 
 
