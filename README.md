@@ -8,6 +8,8 @@ Scripts for automated data fetching, data transformation, strategy development, 
 - Automatically select most traded cyrptocurreny assets
 - Convenient filenaming
 - Convenient for pandas dataframe and creating candlestick data (OHLCV)
+  
+![Alt text for your image](algo_trading/backtest_result.png "Backtesting plot")
 
 **2 main_backtest_CET.py:** Takes .csv input data and strategy('s) and leverages backtesting.py library for backtesting and optimization
 - Takes local .csv data and Tranforms UTC data to CET data
