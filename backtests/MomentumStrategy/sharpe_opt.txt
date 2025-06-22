@@ -1,0 +1,34 @@
+Start                                             2021-06-01 22:00:00+02:00
+End                                               2025-05-31 22:00:00+02:00
+Duration                                                 1460 days 00:00:00
+Exposure Time [%]                                                 11.498973
+Equity Final [$]                                                 2854017.64
+Equity Peak [$]                                                  2953528.93
+Return [%]                                                       185.401764
+Buy & Hold Return [%]                                            192.503902
+Return (Ann.) [%]                                                 29.952975
+Volatility (Ann.) [%]                                             22.558972
+CAGR [%]                                                          29.976298
+Sharpe Ratio                                                       1.327763
+Sortino Ratio                                                      3.593728
+Calmar Ratio                                                       2.740184
+Alpha [%]                                                         167.43298
+Beta                                                               0.093342
+Max. Drawdown [%]                                                -10.931009
+Avg. Drawdown [%]                                                  -3.22414
+Max. Drawdown Duration                                    454 days 00:00:00
+Avg. Drawdown Duration                                     63 days 00:00:00
+# Trades                                                                 21
+Win Rate [%]                                                      57.142857
+Best Trade [%]                                                     33.36347
+Worst Trade [%]                                                   -3.192716
+Avg. Trade [%]                                                     5.242887
+Max. Trade Duration                                        19 days 00:00:00
+Avg. Trade Duration                                         7 days 00:00:00
+Profit Factor                                                      9.662532
+Expectancy [%]                                                     5.645425
+SQN                                                                2.550356
+Kelly Criterion                                                    0.501952
+_strategy                 MomentumStrategy(thr_pr_enter=0.89999999999999...
+_equity_curve                                            Equity  Drawdow...
+_trades                       Size  EntryBar  ExitBar  ...  Exit_Momentu...
