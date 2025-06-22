@@ -24,7 +24,7 @@ Scripts for automated data fetching, data transformation, strategy development, 
 - Flexible broker switching (leveraging cctx library)
 - Creates customized dashboard plots using mplfinance library showing processed data
 - Can be run daily for buy/hold/sell decision making in trading
-![Alt text for your image](20250622_115547 Sell.png "Backtesting plot")
+![Alt text for your image](20250622_115547_Sell.png "Trading decision dashboard")
   
 **fetch_custom_CET.py**: custom python module to fetch live data from given broker and transform from usual UTC timezone to CET timezone.
 
